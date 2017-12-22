@@ -1,6 +1,3 @@
-"""
-Module issues if done in `if __name__ == '__main'__` block of register.py.
-"""
 import matplotlib.pyplot as plt
 from human_pose_util.register import register_skeletons, register_datasets
 from human_pose_util.register import get_dataset
